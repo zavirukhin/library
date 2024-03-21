@@ -245,11 +245,12 @@ a:hover {
   background: #000;
   position: relative;
   overflow: hidden;
+  height: 600px;
 }
 
 .welcome-image {
+  width: 100%;
   display: block;
-  margin: 0 auto;
 }
 
 .welcome-container::before {
